@@ -9,8 +9,9 @@ body {
 
 .animate-charcter {
 
-    display: flex;
-    justify-content: center;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
    text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
