@@ -13,6 +13,7 @@ body {
 
 
 .animate-charcter {
+    font-size: 6em;
 
    text-transform: uppercase;
   background-image: linear-gradient(
